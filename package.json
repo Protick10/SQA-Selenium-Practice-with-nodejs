@@ -1,0 +1,27 @@
+{
+  "name": "selenium-webdriver",
+  "version": "1.0.0",
+  "description": "selenium webdriver practice project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Protick10/SQA-Selenium-Practice-with-nodejs.git"
+  },
+  "keywords": [
+    "selenium",
+    "webdriver",
+    "xpath"
+  ],
+  "author": "Protick Saha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Protick10/SQA-Selenium-Practice-with-nodejs/issues"
+  },
+  "homepage": "https://github.com/Protick10/SQA-Selenium-Practice-with-nodejs#readme",
+  "dependencies": {
+    "selenium-webdriver": "^4.25.0"
+  }
+}
