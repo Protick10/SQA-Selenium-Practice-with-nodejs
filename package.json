@@ -22,6 +22,7 @@
   },
   "homepage": "https://github.com/Protick10/SQA-Selenium-Practice-with-nodejs#readme",
   "dependencies": {
+    "chromedriver": "^129.0.1",
     "selenium-webdriver": "^4.25.0"
   }
 }
