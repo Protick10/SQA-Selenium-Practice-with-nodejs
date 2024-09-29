@@ -8,6 +8,8 @@ async function testRun(){
     await driver.get('https://demo.evershop.io/')
     await driver.manage().window().maximize()
     await driver.sleep(2000)
+    await driver.findElement(By.className("search-icon")).click() // Click on search icon to open search bar
+    await driver.sleep(2000)
     await driver.quit()
     
 
